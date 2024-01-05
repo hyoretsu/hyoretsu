@@ -1,4 +1,4 @@
-[Portfólio](https://github.com/stars/hyoretsu/lists/destaque)
+[Portfólio](https://github.com/stars/hyoretsu/lists/portfolio)
 
 ![Aran's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoretsu&count_private=true&show_icons=true&theme=radical)
 <br />
